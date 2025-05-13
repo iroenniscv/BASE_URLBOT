@@ -1,2 +1,4 @@
 pyrogram>=2.0.0
-TgCrypto
+TgCrypto>=1.2.2  # Acelera el cifrado de Pyrogram
+psutil>=5.9.0    # Para monitoreo del sistema
+apscheduler>=3.9.0  # Para las tareas programadas
