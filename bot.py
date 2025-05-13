@@ -57,7 +57,7 @@ async def info_command(client: Client, message: Message):
     await message.reply_text(
         "🤖 **Información del bot:**\n\n"
         "▸ Framework: Pyrogram\n"
-        "▸ Desplegado en: Koyeb\n"
+        "▸ Desplegado en: RAILWAY.COM\n"
         "▸ Creado con ❤️ para demostración"
     )
 
